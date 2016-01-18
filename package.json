@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/breakdown/issues"
   },
-  "homepage": "https://github.com/AgtLucas/breakdown#readme"
+  "homepage": "https://github.com/AgtLucas/breakdown#readme",
+  "dependencies": {
+    "heapdump": "^0.3.7"
+  }
 }
