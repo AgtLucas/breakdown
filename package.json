@@ -1,0 +1,19 @@
+{
+  "name": "breakdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/breakdown.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/breakdown/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/breakdown#readme"
+}
